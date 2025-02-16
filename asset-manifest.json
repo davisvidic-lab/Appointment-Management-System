@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Appointment-Management-System/static/css/main.e50af1fa.css",
+    "main.js": "/Appointment-Management-System/static/js/main.b249d854.js",
+    "static/js/453.e26c38a7.chunk.js": "/Appointment-Management-System/static/js/453.e26c38a7.chunk.js",
+    "index.html": "/Appointment-Management-System/index.html",
+    "main.e50af1fa.css.map": "/Appointment-Management-System/static/css/main.e50af1fa.css.map",
+    "main.b249d854.js.map": "/Appointment-Management-System/static/js/main.b249d854.js.map",
+    "453.e26c38a7.chunk.js.map": "/Appointment-Management-System/static/js/453.e26c38a7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e50af1fa.css",
+    "static/js/main.b249d854.js"
+  ]
+}
